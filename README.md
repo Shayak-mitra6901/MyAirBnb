@@ -57,9 +57,5 @@ The API will be available at `http://localhost:8080/api/v1` (or as configured).
 - `/api/v1/bookings/*` – Booking operations
 - `/api/v1/webhook/*` – Stripe webhook
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License.
 
